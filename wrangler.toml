@@ -1,0 +1,6 @@
+name = "ngulang"               # ⬅️ Ganti ini sesuai nama Worker baru kamu
+main = "worker.js"
+compatibility_date = "2025-07-27"
+
+[site]
+bucket = "./public"
